@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://running-robert.vercel.app/sitemap/sitemap-index.xml
+Host: https://running-robert.vercel.app
